@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    padding: 5px 20px;
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    justify-content: space-between;
+    box-shadow: 0 0 4px #ccc;
+}
+.header_left{
+    display: flex;
+    align-items: center;
+}
+.header_left h3{
+    color: rgb(56, 88, 152);
+}
+.header_left img {
+    height: 40px;
+
+}
+.header_middle{
+    align-items: center;
+    margin-top: 20px;
+}
+.header_middle input{
+    width: 400px;
+    height: 30px;
+    border: none;
+    border-radius: 26px;
+    background-color: #ccc;
+}
+.header_right img {
+    height: 40px;
+    padding: 10px;
+}
+.header_info{
+    display: flex;
+    
+}
+
+

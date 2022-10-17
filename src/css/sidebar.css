@@ -1,0 +1,19 @@
+
+.sidebar img{
+    height: 25px;
+    
+}
+.sidebar{
+    margin-top: 50px;
+    width: 30%;
+}
+.fone{
+    display: flex;
+    padding: 10px;
+}
+.fone h5{
+    padding: 5px;
+}
+.fone:hover{
+    background-color: #ccc;
+}
